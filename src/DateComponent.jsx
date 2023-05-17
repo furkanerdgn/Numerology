@@ -174,7 +174,7 @@ const particlesLoaded = useCallback(async container => {
               zIndex: 2,
             }}
           >
-            <DatePicker label="Select date" 
+            <DatePicker label="Select birth date" 
             style={{color: "#BE1E28"}}
   onChange={handleDateChange} />          
           </Box>     
